@@ -1,2 +1,3 @@
 # Small-JavaScript-projects
 Small JavaScript projects -Continuous/Ongoing
+This repo contains small JS projects written in vanilla JS and JQuery. More will be added as time goes on....

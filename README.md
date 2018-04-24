@@ -5,8 +5,8 @@ This repo contains small JS projects written in vanilla JS and JQuery. This is a
 #JavaScript Slider
 Using Vanilla JS -Image Slider
 
-#push notification
+#push notification-
 Chrome push notification using push.js library  https://pushjs.org/ 
 
-#modal image
+#modal image-
 modal image using HTML/CSS/JS

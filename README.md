@@ -7,3 +7,6 @@ Using Vanilla JS -Image Slider
 
 #push notification
 Chrome push notification using push.js library  https://pushjs.org/ 
+
+#modal image
+modal image using HTML/CSS/JS

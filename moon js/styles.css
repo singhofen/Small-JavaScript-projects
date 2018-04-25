@@ -1,0 +1,17 @@
+body,
+nav{
+   background-image: url("https://images.pexels.com/photos/35888/amazing-beautiful-breathtaking-clouds.jpg?auto=compress&cs=tinysrgb&h=350");
+   color: white;
+   font-family: cursive;
+   margin: 1rem;
+}
+a{
+   color: white;
+   padding: 20px 20px;
+   text-decoration: none;
+   font-size: 30px;
+   
+}
+a:hover{
+   color: rgb(22, 243, 37);
+}

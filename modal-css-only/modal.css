@@ -1,0 +1,85 @@
+.modalBox {
+   position: fixed; /* create the modal window layer, and have it fill the entire screen */
+   top: 0;
+   right: 0;
+   left: 0;
+   bottom: 0;
+   background: rgba(0,0,0,0.8); /* set the modal window layer's background color to a translucent black */
+   z-index: 99999; /* put the layer on top of every other layer */
+   opacity:0; /* make the layer invisible intially */
+   pointer-events: none;
+   
+ }
+
+ .modalBox:target {
+   opacity:1; /* make the modal window layer visible */
+   pointer-events: auto;
+   position: fixed;
+ }
+
+ .modalBox > div {
+   width: 1500px; /* set the window's width */
+   height: 1500px;
+   position: relative;
+   margin: 9% auto; /* center the window horizontally */
+   padding: 5px;
+   background-image: url("chaseNY.JPG");
+  /* background-image: url("https://images.pexels.com/photos/271955/pexels-photo-271955.jpeg?auto=compress&cs=tinysrgb&h=350");*/
+   background-repeat:no-repeat;
+ }
+ p, a{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    text-decoration: none;
+    margin: 15px;
+ }
+ body{
+    background-color: grey;
+   /* background-image: url(""); optional*/
+ }
+ body a:hover{
+   color: rgb(28, 247, 28);
+ }
+
+ #button:hover{
+    color: red;
+ }
+ #button {
+    color: green;
+    
+ }
+ button{
+   border-radius: 50px;
+   padding: 20px;
+   border: none;
+   font-weight: 700;
+   font-family: cursive;
+ }
+ small{
+    font-size: 18px;
+    color: rgb(19, 247, 19);
+ }
+ .typewriter h1 {
+   text-align: center;
+   overflow: hidden; /* Ensures the content is not revealed until the animation */
+   border-right: .15em solid orange; /* The typwriter cursor */
+   white-space: nowrap; /* Keeps the content on a single line */
+   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+   letter-spacing: .15em; /* Adjust as needed */
+   animation: 
+     typing 4.5s steps(44, end),
+     blink-caret .75s step-end infinite;
+ }
+ 
+ /* The typing effect */
+ @keyframes typing {
+   from { width: 0 }
+   to { width: 80% }
+ }
+ 
+ /* The typewriter cursor effect */
+ @keyframes blink-caret {
+   from, to { border-color: transparent }
+   50% { border-color: orange; }
+ }

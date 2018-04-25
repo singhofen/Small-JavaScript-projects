@@ -10,3 +10,5 @@ Chrome push notification using push.js library  https://pushjs.org/
 
 #modal image-
 modal image using HTML/CSS/JS
+
+#moon.js calculator app.  Helpful resources: ---> https://kbrsh.github.io/moon/ , https://github.com/kbrsh/moon , https://www.npmjs.com/package/moonjs

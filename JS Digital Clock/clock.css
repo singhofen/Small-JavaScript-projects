@@ -1,0 +1,60 @@
+
+body{
+   overflow: hidden;
+   background-color: rgb(58, 58, 216) ;
+}
+
+p{
+  font-size: 40px;
+}
+
+#clock, 
+.container-fluid{
+  
+  color: firebrick;
+  cursor: default;
+  font-family: 'Caveat', cursive;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+  font-size: 100px;
+  text-shadow: 0px 0px 20px;    
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 576px) {
+	body, div {
+    font-size: 14px;
+    background-color: green !important;
+    color: purple !important
+	}
+}
+
+@media (min-width: 768px) {
+	body, div{
+    font-size: 16px;
+    background-color: black !important;
+    color: fuchsia !important;
+	}
+}
+
+@media (min-width: 992px) {
+	body, div  {
+    font-size: 18px;
+    background-color: rgb(133, 45, 45) !important;
+    color: rgb(16, 39, 16) !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	body, div {
+    font-size: 20px;
+    background-color: rgb(98, 110, 101) !important;
+    color: orange !important;
+	}
+}
+
+

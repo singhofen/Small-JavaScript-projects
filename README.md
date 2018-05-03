@@ -9,6 +9,12 @@ Using Vanilla JS -Image Slider
 
 #push notification-
 Chrome push notification using push.js library  https://pushjs.org/ 
+--Picture of push notification page before notification
+
+![image](https://user-images.githubusercontent.com/23155302/39591794-d6757484-4ed2-11e8-9bec-9c4d07a729fa.png)
+
+Picture of push notification when notification was requested.
+![image](https://user-images.githubusercontent.com/23155302/39591852-054986ba-4ed3-11e8-8f42-ecca2bd85cb1.png)
 
 #modal image-
 modal image using HTML/CSS/JS
@@ -19,7 +25,7 @@ modal image using HTML/CSS/JS
 
 #moon.js calculator app.  Helpful resources: ---> https://kbrsh.github.io/moon/ , https://github.com/kbrsh/moon , https://www.npmjs.com/package/moonjs
 
-#Navigate back and forth from home page and calculator using the links up top. 
+Navigate back and forth from home page and calculator using the links up top. 
 
 1st image is of home page.
 ![image](https://user-images.githubusercontent.com/23155302/39591447-c64012fa-4ed1-11e8-9ee1-cc4528e51623.png)

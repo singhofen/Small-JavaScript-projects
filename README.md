@@ -25,3 +25,6 @@ modal image using HTML/CSS/JS
 
 #JS Bitcoin calculator. Includes Bootstrap4 and jQuery for responsivness. 
 ![image](https://user-images.githubusercontent.com/23155302/39590598-62105026-4ecf-11e8-94b5-deb39e782c8a.png)
+
+#JS/CSS3/HTML5 Interactive Modal with typewriter effect. On page load. 
+![image](https://user-images.githubusercontent.com/23155302/39591122-c48e6188-4ed0-11e8-9b62-14caaf887715.png)

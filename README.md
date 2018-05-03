@@ -18,3 +18,4 @@ modal image using HTML/CSS/JS
 
 
 #JS Bitcoin calculator. Includes Bootstrap4 and jQuery for responsivness. 
+![image](https://user-images.githubusercontent.com/23155302/39590598-62105026-4ecf-11e8-94b5-deb39e782c8a.png)

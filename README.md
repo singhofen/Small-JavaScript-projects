@@ -19,6 +19,14 @@ modal image using HTML/CSS/JS
 
 #moon.js calculator app.  Helpful resources: ---> https://kbrsh.github.io/moon/ , https://github.com/kbrsh/moon , https://www.npmjs.com/package/moonjs
 
+#Navigate back and forth from home page and calculator using the links up top. 
+
+1st image is of home page.
+![image](https://user-images.githubusercontent.com/23155302/39591447-c64012fa-4ed1-11e8-9ee1-cc4528e51623.png)
+
+2nd image is of the JS calculator using the moon.js library
+![image](https://user-images.githubusercontent.com/23155302/39591463-d8b24ec6-4ed1-11e8-8256-3331cfc02522.png)
+
 #JS/JQuery digitial clock with some CSS3 effects
 ![image](https://user-images.githubusercontent.com/23155302/39590497-128330aa-4ecf-11e8-958e-7d7c9a2f6759.png)
 

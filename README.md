@@ -14,5 +14,7 @@ modal image using HTML/CSS/JS
 #moon.js calculator app.  Helpful resources: ---> https://kbrsh.github.io/moon/ , https://github.com/kbrsh/moon , https://www.npmjs.com/package/moonjs
 
 #JS/JQuery digitial clock with some CSS3 effects
+![image](https://user-images.githubusercontent.com/23155302/39590497-128330aa-4ecf-11e8-958e-7d7c9a2f6759.png)
+
 
 #JS Bitcoin calculator. Includes Bootstrap4 and jQuery for responsivness. 

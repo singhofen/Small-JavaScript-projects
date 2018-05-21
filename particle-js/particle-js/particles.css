@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+#particles-js{
+  height: 100%;
+  background: #20a713;
+}
+p{
+  text-align: center;
+  font-weight: 900;
+  color: red;
+}

@@ -1,4 +1,26 @@
-# Small-JavaScript-projects
+# Small-JavaScript-projects Links for projects below
+---
+https://codepen.io/csinghofen/pen/PemPXb  calculator
+
+https://codepen.io/csinghofen/pen/qYqMGY clock
+
+https://codepen.io/csinghofen/pen/NMrJZQ css/js modal & js type writer 
+
+https://codepen.io/csinghofen/pen/ZxPVEx  javascript quiz
+
+https://codepen.io/csinghofen/pen/erKrjq particle js 
+
+https://codepen.io/csinghofen/pen/RJwYLm particle js
+
+https://codepen.io/csinghofen/pen/MXjWaj random name generator
+
+https://codepen.io/csinghofen/pen/oyZENO?editors=1000 vanilla js price calculator
+
+https://codepen.io/csinghofen/pen/PaxdLE  handle click events w/ js
+
+https://codepen.io/csinghofen/pen/GGrQKZ handle onclick events w/ js
+
+
 Small JavaScript projects -Continuous/Ongoing
 This repo contains small JS projects written in vanilla JS and JQuery. This is an ongoing project..
 

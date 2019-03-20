@@ -1,4 +1,7 @@
-# Small-JavaScript-projects Links for projects below
+
+Small JavaScript projects -Continuous/Ongoing
+This repo contains small JS projects written in vanilla JS and JQuery. This is an ongoing project..
+### codepen Links for projects are below
 ---
 https://codepen.io/csinghofen/pen/PemPXb  calculator
 
@@ -21,8 +24,6 @@ https://codepen.io/csinghofen/pen/PaxdLE  handle click events w/ js
 https://codepen.io/csinghofen/pen/GGrQKZ handle onclick events w/ js
 
 
-Small JavaScript projects -Continuous/Ongoing
-This repo contains small JS projects written in vanilla JS and JQuery. This is an ongoing project..
 
 # particle.js app
 ![image](https://user-images.githubusercontent.com/23155302/40333152-ff8fc986-5d24-11e8-8810-b4aaa5080c49.png)
